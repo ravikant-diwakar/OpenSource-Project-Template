@@ -39,7 +39,5 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expectat
 
 If you encounter any issues or bugs, please create an issue in the repository. Provide as much detail as possible to help us understand and resolve the issue.
 
-#### Getting Help
 
-If you need help or have any questions, feel free to reach out to us at [email@example.com](mailto:email@example.com).
 
